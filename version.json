@@ -1,0 +1,6 @@
+{
+  "version": "0.0.266",
+  "releaseDate": "03.11.2026",
+  "downloadUrl": "https://github.com/Arhip121/overdrive-builds/releases/download/untagged-b73df83e844e8843f3b5/OVERDRIVE.zip",
+  "changelog": "<h1>What's new in v0.0.267</h1><ul><li>New house variations added</li><li>Removed background generation behind the player</li><li>Fixed numerous bugs that were breaking the leaderboard</li></ul>"
+}
